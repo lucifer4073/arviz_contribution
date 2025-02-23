@@ -2103,6 +2103,7 @@ def test_plot_bf():
     _, bf_plot = plot_bf(idata, var_name="a", ref_val=0)
     assert bf_plot is not None
 
+
 @pytest.mark.parametrize(
     "coords, expected_vars",
     [
