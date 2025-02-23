@@ -12,9 +12,9 @@ We do this by:
 
 * Creating and maintaining the ArviZ library with functions for posterior analysis, data storage,
   sample diagnostics, model checking, and comparison.
-* Creating social infrastructure through a welcoming and diverse community
-* Making the right data, tools and best practices more discoverable
-* Promoting advocacy for a culture of principled iterative modeling based on the Bayesian Workflow
+* Creating social infrastructure through a welcoming and diverse community.
+* Making the right data, tools and best practices more discoverable.
+* Promoting advocacy for a culture of principled iterative modeling based on the Bayesian Workflow.
 
 This page aims to gather resources related to Bayesian modeling and ArviZ from a variety of
 sources to work towards the 2nd and 3rd bullet points.
@@ -40,8 +40,8 @@ between programming languages and encourage collaboration.
 ## Participate online
 There are many alternatives and channels available to interact with other ArviZ users.
 
-### Twitter
-To begin with, you may want to follow us on Twitter! We are [@arviz_devs](https://twitter.com/arviz_devs).
+### Bluesky
+To begin with, you may want to follow us on Bluesky! We are [@arviz.bsky.social](https://bsky.app/profile/arviz.bsky.social).
 It is the best way to be up to date with the latest developments and events related
 to ArviZ.
 
@@ -75,7 +75,7 @@ The PPLs that integrate with ArviZ are:
 * [TensorFlow Probability](https://www.tensorflow.org/probability)
 
 Moreover, there are other libraries that use ArviZ for visualization and diagnostics
-and/or that are compatible with `InfereceData` objects:
+and/or that are compatible with `InferenceData` objects:
 
 * [Bambi](https://bambinos.github.io/bambi/)
 * [corner.py](https://corner.readthedocs.io/en/latest/)
@@ -105,7 +105,7 @@ let us know!
 
 ## Blogs and example compilations
 If you have a blog that has 2 or more posts tagged as "ArviZ", you can submit
-a pull request to add your blog to this list
+a pull request to add your blog to this list.
 
 ```{include} external_resources.md
 ```
